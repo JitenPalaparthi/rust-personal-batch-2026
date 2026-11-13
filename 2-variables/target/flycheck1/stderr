@@ -1,2 +1,3 @@
-    Checking demo v0.1.0 (/Users/jiten/workspace/training/rust-programming-batch-nov-dec-2026/2-variables)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.37s
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.00s
