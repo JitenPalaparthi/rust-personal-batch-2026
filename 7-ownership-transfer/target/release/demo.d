@@ -1,0 +1,1 @@
+/Users/jiten/workspace/training/rust-programming-batch-nov-dec-2026/7-ownership-transfer/target/release/demo: /Users/jiten/workspace/training/rust-programming-batch-nov-dec-2026/7-ownership-transfer/src/main.rs
